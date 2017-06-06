@@ -4,6 +4,13 @@
 
 h1{
 	text-align: center;
-	margin: 20% 0 0 0;
 	font-weight: 300;
+}
+
+.content-center{
+	margin-top: auto;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
