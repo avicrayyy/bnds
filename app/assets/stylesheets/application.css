@@ -29,3 +29,7 @@ body {
 .red{
 	color: #db3b5c;
 }
+
+.underline{
+	text-decoration: underline;
+}
